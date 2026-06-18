@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">Adhesive laboratory quality control</title>
+  <desc id="desc">Abstract laboratory bench with adhesive testing equipment.</desc>
+  <rect width="900" height="620" rx="32" fill="#eef4f8"/>
+  <rect x="96" y="398" width="708" height="86" rx="18" fill="#0b1f33" opacity=".16"/>
+  <rect x="134" y="164" width="250" height="262" rx="26" fill="#fff" stroke="#d9e3ec" stroke-width="6"/>
+  <rect x="168" y="205" width="182" height="24" rx="12" fill="#1f5f99"/><rect x="168" y="253" width="138" height="18" rx="9" fill="#b8c9d8"/><rect x="168" y="289" width="156" height="18" rx="9" fill="#b8c9d8"/><rect x="168" y="325" width="112" height="18" rx="9" fill="#b8c9d8"/>
+  <g transform="translate(478 112)"><path d="M74 0h80v184c0 44-36 80-80 80S-6 228-6 184V0h80z" fill="#fff" stroke="#1f5f99" stroke-width="10"/><path d="M8 158h212v96c0 58-47 105-106 105S8 312 8 254z" fill="#2e7d5b" opacity=".82"/><rect x="48" y="0" width="132" height="28" rx="14" fill="#0b1f33"/></g>
+  <circle cx="680" cy="192" r="64" fill="#fff" stroke="#d9e3ec" stroke-width="8"/><path d="M646 193l24 25 46-58" fill="none" stroke="#2e7d5b" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

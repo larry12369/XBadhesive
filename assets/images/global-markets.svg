@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" role="img" aria-labelledby="title desc">
+  <title id="title">Global market support map</title>
+  <desc id="desc">Abstract world map highlighting international adhesive markets.</desc>
+  <rect width="1000" height="560" rx="28" fill="#0b1f33"/>
+  <g fill="#ffffff" opacity=".16">
+    <path d="M177 195c50-43 130-48 178-10 38 30 18 80-38 79-45-1-70 35-123 20-48-13-63-50-17-89z"/>
+    <path d="M455 172c46-30 126-17 151 26 25 45-21 76-69 58-36-13-83 5-103-25-15-22-3-43 21-59z"/>
+    <path d="M592 272c64-42 168-23 208 31 41 56-14 112-94 91-58-15-112 5-143-38-25-35-9-61 29-84z"/>
+    <path d="M724 165c64-28 132-6 158 40 25 44-24 72-80 57-45-12-108 11-126-28-13-28 14-55 48-69z"/>
+  </g>
+  <g stroke="#1f5f99" stroke-width="3" fill="none" opacity=".7"><path d="M250 242C380 123 562 120 751 204"/><path d="M250 242c169 54 315 86 476 100"/><path d="M508 211c68 17 119 54 170 107"/></g>
+  <g fill="#2e7d5b" stroke="#fff" stroke-width="5"><circle cx="252" cy="244" r="13"/><circle cx="504" cy="210" r="13"/><circle cx="642" cy="296" r="13"/><circle cx="744" cy="342" r="13"/></g>
+  <g fill="#fff" font-family="Arial, sans-serif" font-size="26" font-weight="700"><text x="218" y="304">USA</text><text x="466" y="158">Europe</text><text x="590" y="258">Middle East</text><text x="688" y="400">Southeast Asia</text></g>
+</svg>
