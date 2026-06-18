@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">Water-based adhesive product categories</title>
+  <desc id="desc">Abstract adhesive drums, cartons, paper bags and corrugated boxes.</desc>
+  <rect width="900" height="620" rx="32" fill="#f4f6f8"/>
+  <g transform="translate(86 84)">
+    <rect x="0" y="245" width="728" height="92" rx="22" fill="#dce6ef"/>
+    <g fill="#1f5f99"><rect x="52" y="116" width="118" height="221" rx="20"/><rect x="204" y="78" width="118" height="259" rx="20"/><rect x="356" y="132" width="118" height="205" rx="20"/></g>
+    <g fill="#fff" opacity=".75"><rect x="76" y="154" width="70" height="78" rx="12"/><rect x="228" y="118" width="70" height="92" rx="12"/><rect x="380" y="168" width="70" height="66" rx="12"/></g>
+    <g fill="#d99958" stroke="#b97938" stroke-width="4"><path d="M538 170h112l34 48H572z"/><path d="M572 218h112v119H572z"/><path d="M538 170l34 48v119l-34-48z"/></g>
+    <path d="M505 392c52-80 144-77 193 0" fill="none" stroke="#2e7d5b" stroke-width="20" stroke-linecap="round"/>
+    <rect x="496" y="392" width="216" height="84" rx="20" fill="#fff" stroke="#d5dee8" stroke-width="5"/>
+    <path d="M536 392v-54h40v54M632 392v-54h40v54" stroke="#0b1f33" stroke-width="10" fill="none" stroke-linecap="round"/>
+  </g>
+</svg>
